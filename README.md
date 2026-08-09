@@ -30,7 +30,7 @@
 - 浅色 / 深色 / 跟随系统三种主题
 - 自定义字体大小、磁贴颜色
 - 开机自启、关闭到托盘
-- 励志语句自定义（仅在日程编辑时显示）
+- 底部自定义提示（仅在日程编辑时显示）
 
 ---
 
@@ -52,7 +52,7 @@
 
 从 [Releases](https://github.com/Achilng/floral-notepaper/releases) 下载：
 
-- `floral-notepaper_x.x.x.exe` 
+- `floral-notepaper.exe` 
 
 双击运行即可。需要 Windows 10 1809+ 或 Windows 11。
 
