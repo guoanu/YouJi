@@ -17,12 +17,12 @@
 - 全局快捷键呼出小窗（默认 `Ctrl+Space`），闪现即记
 - 独立管理，不干扰主笔记列表
 - 支持一键钉为桌面磁贴
-
+![alt text](imag-1e.png)
 ### 📅 日程
 - 日历视图，点击日期即可创建当天日程
 - 自动生成任务清单 + 晚间总结模板
 - 年月快速跳转，有内容的日期高亮标记
-
+![alt text](image-2.png)
 ### 🎨 体验
 - 浅色 / 深色 / 跟随系统三种主题
 - 自定义字体大小、磁贴颜色
@@ -49,8 +49,7 @@
 
 从 [Releases](https://github.com/Achilng/floral-notepaper/releases) 下载：
 
-- `floral-notepaper_x.x.x_x64-setup.exe` — 安装版
-- `floral-notepaper_x.x.x.exe` — 便携版（无需安装）
+- `floral-notepaper_x.x.x.exe` 
 
 双击运行即可。需要 Windows 10 1809+ 或 Windows 11。
 
