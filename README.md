@@ -2,7 +2,7 @@
 
 > 有所思，有所记，三份所得。
 
-基于 [花笺 (Floral Notepaper)](https://github.com/Achilng/floral-notepaper) 二次开发的个人效率工具，在原始笔记功能之上新增了**随心记**和**日历日程**两大模块。
+采用videcoding的方式，基于 [花笺 (Floral Notepaper)](https://github.com/Achilng/floral-notepaper) 二次开发的个人效率工具，在原始笔记功能之上新增了**随心记**和**日历日程**两大模块。
 
 ---
 
@@ -12,7 +12,7 @@
 - 完整的 Markdown 编辑与预览，支持 GFM 语法和 LaTeX 公式
 - 文件夹分类管理，拖拽移动
 - 导入/导出 `.md` 文件
-
+![alt text](image.png)
 ### 💬 随心记
 - 全局快捷键呼出小窗（默认 `Ctrl+Space`），闪现即记
 - 独立管理，不干扰主笔记列表
